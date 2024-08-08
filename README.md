@@ -2,4 +2,4 @@
 - 🎓Education: Undergraduater at SLIIT, Year 2
 - 🌱Learning: Continuously exploring new skillsproject
 - 💬Ask me about: C,C++,Java,MySQL,HTML,CSS,JavaScript and MVC architecture
-- 🔗connect:
+- 🔗connect: maheeshaliyanage999@gmail.com
