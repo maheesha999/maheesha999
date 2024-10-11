@@ -48,7 +48,7 @@
 
 <br>
 <br>
-## My stats:
+<h2><i>My Stats</i></h2>
 
 <p align="center">
 <img width="375px" src="https://github-readme-stats.vercel.app/api?username=mahee999&theme=light&show_icons=true&count_private=true" />
