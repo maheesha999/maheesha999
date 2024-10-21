@@ -65,7 +65,6 @@
           alt="maheesha999"
       />
     </p>
-
 <br>
 <h2><i>Let's Connect</i></h2>
 
