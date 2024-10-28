@@ -15,9 +15,9 @@
 
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
-<p><img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="adam-pw" width="40%"/></p>
+<p><img align="right" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" alt="adam-pw" width="40%"/></p>
 
-
+<!--https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif-->
 - 🎓 I’m an Undergraduate at [SLIIT](https://www.sliit.lk/)
 
 - 🌱 I’m currently learning **Mern Stack**
