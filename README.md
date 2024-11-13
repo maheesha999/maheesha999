@@ -50,6 +50,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+![draw.io](https://img.shields.io/badge/-draw.io-05122A?style=flat&logo=diagramsdotnet)
+
 
 
 
