@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 🔭 I’m currently working on **Coconut Cultivation project**
+- 🔭 I’m currently working on **Landscape design project**
 
 - 💬 Ask me about **JAVA**
 
