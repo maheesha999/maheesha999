@@ -83,6 +83,10 @@
     <a title="maheeshaliyanage999@gmail.com" href="mailto:maheeshaliyanage999@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="maheeshaliyanage999@gmail.com" />
     </a>
+  <a href="https://www.facebook.com/mahee.liyanage.2025">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
 </p>
 <br>
 
