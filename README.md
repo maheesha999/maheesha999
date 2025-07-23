@@ -20,11 +20,7 @@
 <!--https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif-->
 - 🎓 I’m an Undergraduate at [SLIIT](https://www.sliit.lk/)
 
-- 🌱 I’m currently learning **Mern Stack**
-
 - 🔭 I’m currently working on **3D portfolio design project**
-
-- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **maheeshaliyanage999@gmail.com**
 <br>
