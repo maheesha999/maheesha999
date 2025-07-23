@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=mahee999&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
  </p>
@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 🔭 I’m currently working on **Landscape design project**
+- 🔭 I’m currently working on **3D portfolio design project**
 
 - 💬 Ask me about **JAVA**
 
