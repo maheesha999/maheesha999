@@ -20,7 +20,7 @@
 <!--https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif-->
 - 🎓 I’m an Undergraduate at [SLIIT](https://www.sliit.lk/)  
 - 🔭 Currently working on a **3D portfolio design project**  
-- 💬 Ask me about **JavaScript, MERN, React, UI/UX, Android Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, UI/UX, MERN**
 - 🌱 Learning **Framer Motion, GSAP, and Three.js**
 - 📫 Reach me at: **maheeshaliyanage999@gmail.com**
 
@@ -29,28 +29,29 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 
 ### 🔧 Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipseide)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)
 ![draw.io](https://img.shields.io/badge/-draw.io-05122A?style=flat&logo=diagramsdotnet)
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipseide)
 
 ### 🎨 UI/UX  
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop&logoColor=31A8FF)
+![FigJam](https://img.shields.io/badge/-FigJam-05122A?style=flat&logo=figma&logoColor=FF7262)
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=00C4CC)
 
 ---
 <br>
@@ -71,23 +72,19 @@
       />
     </p>
 <br>
-<h2><i>Let's Connect</i></h2>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/maheesha-liyanage-6a634b320/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a title="maheeshaliyanage999@gmail.com" href="mailto:maheeshaliyanage999@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="maheeshaliyanage999@gmail.com" />
-    </a>
-  <a href="https://www.facebook.com/mahee.liyanage.2025">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
+## 🌐 Connect with Me
+<br>
+<p align="center">
+  <a href="https://www.facebook.com/mahee.liyanage.2025" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/maheesha-liyanage-6a634b320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:maheeshaliyanage999@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
 </p>
+
 <br>
-
-
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
