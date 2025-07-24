@@ -40,14 +40,16 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-
+<br>
+<br>
 ### 🔧 Tools & IDEs  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visualstudiocode)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)
 ![draw.io](https://img.shields.io/badge/-draw.io-05122A?style=flat&logo=diagramsdotnet)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipseide)
-
+<br>
+<br>
 ### 🎨 UI/UX  
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
 ![FigJam](https://img.shields.io/badge/-FigJam-05122A?style=flat&logo=figma&logoColor=FF7262)
